@@ -13,6 +13,11 @@ public class UserInfoLab {
         // If the user entered a valid password in step 2, then ask the user to enter their
         // credit card number and pass this value to the maskCreditCard method.
 
+        // Part 4
+        // If the user entered a valid password AND valid credit card number, display the output
+        // as shown in the demo video
+        // https://drive.google.com/file/d/1sMOw5wkOgSfuUcvQhFyZ5flnv_d9qQd3/view?usp=sharing
+
     }
 
     public static String generateUsername(String firstName, String lastName) {
